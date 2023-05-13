@@ -3,7 +3,7 @@
 ## Beginner C#
 
 * [Console Creatures](csharp-console-creatures)
-* Mad Libs
+* [Mad Libs](csharp-mad-libs)
 * Money Maker
 * Password Checker
 * Choose Your Own Adventure
