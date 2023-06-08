@@ -16,6 +16,6 @@
 * [True or False?](csharp-true-or-false)
 * [The Object of Your Affection](csharp-dating-profile)
 * App Interfaces
-* Supernatural Inheritance
+* [Supernatural Inheritance](csharp-supernatural-inheritance)
 * Rover Control Center
 * Programming Languages
