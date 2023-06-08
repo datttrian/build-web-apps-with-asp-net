@@ -12,8 +12,8 @@
 
 ## Intermediate C#
 
-* Caesar Cipher
-* True or False?
+* [Caesar Cipher](csharp-caesar-cipher)
+* [True or False?](csharp-true-or-false)
 * The Object of Your Affection
 * App Interfaces
 * Supernatural Inheritance
