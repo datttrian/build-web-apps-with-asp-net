@@ -7,5 +7,15 @@
 * [Money Maker](csharp-money-maker-live)
 * [Password Checker](csharp-password-checker)
 * [Choose Your Own Adventure](csharp-choose-your-own-adventure)
-* Architect Arithmetic
-* Exquisite Corpse
+* [Architect Arithmetic](csharp-architect-arithmetic)
+* [Exquisite Corpse](csharp-exquisite-corpse)
+
+## Intermediate C#
+
+* Caesar Cipher
+* True or False?
+* The Object of Your Affection
+* App Interfaces
+* Supernatural Inheritance
+* Rover Control Center
+* Programming Languages
