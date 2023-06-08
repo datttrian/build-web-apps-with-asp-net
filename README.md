@@ -14,7 +14,7 @@
 
 * [Caesar Cipher](csharp-caesar-cipher)
 * [True or False?](csharp-true-or-false)
-* The Object of Your Affection
+* [The Object of Your Affection](csharp-dating-profile)
 * App Interfaces
 * Supernatural Inheritance
 * Rover Control Center
